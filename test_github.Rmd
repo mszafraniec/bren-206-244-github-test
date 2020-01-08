@@ -19,6 +19,8 @@ red <- 15
 
 purple <- blue/red
 
+green <-purple*100
+
 ```
 
 After making minimal changes, SAVE this .Rmd (default will be to the project folder, but check to make sure).
